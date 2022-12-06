@@ -1,0 +1,251 @@
+.styling{
+    width: 160px;
+    height:70px;
+    padding:5px;
+    
+
+}
+.exploredcars1{
+    
+        border-radius:16px;
+        cursor: pointer;
+        
+}
+#gol{
+    width: 100px;
+    padding:8px 0px;
+    outline: none;
+    border:2px solid black;
+    border-radius: 50px;
+    background:transparent;
+    color:black;
+    float:right;
+    background-image:linear-gradient(#7b8794,pink) ;
+    margin-top: 5px;
+    margin-right: 2px;
+    cursor: pointer;
+}
+#gol:hover{
+    color:red; 
+    background-color: gray;
+    background-image:linear-gradient(#7b8794,pink) ;
+    margin-top: 5px;
+    margin-right: 2px;
+    cursor: pointer;
+    padding:8px 0px;
+    outline: none;
+    border:2px solid black;
+}
+#go:hover{
+    
+    color: red;
+
+}
+#go{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 0px;
+}
+.input-group{
+    width:90%;
+    max-width: 500px;
+    border-radius: 50px;
+    background:#fff;
+    margin: auto;
+    padding: 5px;
+}
+.form-control{
+    border:0;
+    border-radius: 30px;
+    margin:2px;
+    box-shadow:none;
+}
+.input-group-text{
+    width:100px;
+    background-image: linear-gradient(#7b8794,pink);
+    border:2px solid burlywood;
+    color:#fff;
+    padding:0 25px;
+    border-radius:30px;
+    box-shadow: none;
+    cursor: pointer;
+
+}
+.bgimg1{
+    background-image: url("https://career.webindia123.com/career/options/images/travel.jpg");
+    background-size: cover;
+    height: 80vh;
+    background-color: aqua;
+}
+.head1{
+    font-size: 40px;
+    font-weight: bold;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paraline{
+    color:#323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+
+}
+.buttonst{
+    color:white;
+    background-color:#5a7184;
+    width:230px;
+    height: 25px;
+    border-width: 0px;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.bgcolor2{
+    background-color: #f9fbfe;
+}
+.head2{
+    color:#183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 28px;
+    font-weight: 700;
+}
+.para2{
+    color:#5a7184;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+    
+
+.carding{
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+
+    margin: 20px 0 ;
+}
+.carding1{
+
+    text-align: center;
+    background-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+    
+    margin: 20px 0 ;
+}
+
+
+.offers{
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+.cardimg{
+    width:87px;
+    height:90px;
+
+}
+.chead{
+    color:#323f4b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+.cpara{
+    color:#7b8794;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+.offers{
+    color: #323f4b;
+    font-style: italic;
+    font-weight: 600;
+}
+.explorehead{
+    color:#183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:28px;
+    font-weight:700;
+    
+    
+}
+.explorecards{
+    border-radius:16px;
+    cursor: pointer;
+    display: inline-block;
+    box-sizing: border-box;
+    transition: transform 0.5s;
+    
+}
+.exploreimg:hover{
+    transform: translateY(-10px);
+}
+.exploreimg{
+    border-radius:16px;
+    cursor: pointer;
+    
+    
+}
+.cardhead4{
+    color:#323f4b;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:18px;
+    font-weight:bold;
+    margin-left:24px;
+    
+}
+.explorelink{
+    color:#c90202;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:14px;
+    font-weight:bold;
+}
+.paybgimg{
+    background-color: white;    
+}
+.paymentimg{
+    width:350px;    
+}
+.payhead{
+    color:#183b56;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:28px;
+    font-weight:700;
+}
+.paypara{
+    color:#5a7184;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:16px;
+}
+.cstbutton{
+    width: 100px;
+    padding:8px 0px;
+    outline: none;
+    border:2px solid black;
+    border-radius: 50px;
+    background:transparent;
+    color:black;
+    float:right;
+    background-image:linear-gradient(#7b8794,pink) ;
+    margin-top: 5px;
+    margin-right: 2px;
+    cursor: pointer;
+}
+
+.paycardimg{
+    width:50px;
+    height:50px;
+    margin-right:28px;
+}
+#contact{
+    background-color: grey;
+    padding-bottom:4rem;
+    
+}
